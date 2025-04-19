@@ -6,7 +6,7 @@
 
 To get recommendations, simply provide a movie title you like. The system will find movies with similar content and recommend the top 5 matches. It's like having a friend who knows your taste in movies and can suggest new ones you'll likely enjoy.
 
-## Example
+ **Example**
 
 Let's say you provide the movie title "Avatar" as input:
 
@@ -14,11 +14,11 @@ recommendationsystem('Avatar')
 Use code with caution
 The system will then output a list of 5 movie titles that are most similar to "Avatar" in terms of their genres, keywords, overview, cast, and crew. These might be movies like:
 
-Guardians of the Galaxy
-Aliens
-Star Wars: Episode III - Revenge of the Sith
-Star Trek Into Darkness
-Jupiter Ascending
+1. Guardians of the Galaxy
+2. Aliens
+3. Star Wars: Episode III - Revenge of the Sith
+4. Star Trek Into Darkness
+5. Jupiter Ascending
 
 This code implements a movie recommendation system using data from two CSV files: 'movies.csv' and 'credits.csv'. It performs the following steps:
 
