@@ -10,8 +10,6 @@ To get recommendations, simply provide a movie title you like. The system will f
 
 Let's say you provide the movie title "Avatar" as input:
 
-recommendationsystem('Avatar')
-Use code with caution
 The system will then output a list of 5 movie titles that are most similar to "Avatar" in terms of their genres, keywords, overview, cast, and crew. These might be movies like:
 
 1. Guardians of the Galaxy
