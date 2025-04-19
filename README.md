@@ -12,11 +12,13 @@ Let's say you provide the movie title "Avatar" as input:
 
 The system will then output a list of 5 movie titles that are most similar to "Avatar" in terms of their genres, keywords, overview, cast, and crew. These might be movies like:
 
-1. Guardians of the Galaxy
-2. Aliens
-3. Star Wars: Episode III - Revenge of the Sith
-4. Star Trek Into Darkness
-5. Jupiter Ascending
+1. Titan A.E.
+2. Independence Day
+3. Aliens vs Predator: Requiem
+4. Small Soldiers
+5. Battle: Los Angeles
+
+
 
 This code implements a movie recommendation system using data from two CSV files: 'movies.csv' and 'credits.csv'. It performs the following steps:
 
